@@ -15,7 +15,7 @@ import Assignment from "./pages/admin/Assignment";
 
 import NotFound from "./pages/NotFound";
 import useAuthCheck from "./hooks/useAuthCheck";
-import PrivateRoute from "./routes/privateRoute";
+import PrivateRoute from "./routes/PrivateRoute";
 import PublicRoute from "./routes/PublicRoute";
 import AdminRoute from "./routes/AdminRoute";
 import UserRoute from "./routes/UserRoute";
